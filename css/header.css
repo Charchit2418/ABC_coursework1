@@ -1,0 +1,63 @@
+body{
+background:#FFF;	
+width:100%;	
+COLOR:#FFF;
+}
+
+.wrapper{
+width:100%;
+background:#fff;				
+	height:200px;		
+float:left;
+}
+
+		.modules {
+			width:100%;
+			background:#fff;
+			float:left;
+			margin-left:10px;
+			
+		}
+		
+		.modules a{
+			float:left;
+		text-decoration:none;
+		margin-left:30px;
+		}
+.modules a img{
+					float:left;
+				
+				}
+				
+
+
+
+
+p{
+					color:grey;
+					font-family:Arial, Helvetica, sans-serif;
+					font-size:17px;}
+		
+				
+				
+				
+			#header{
+				}
+		
+		.modules  a:hover{
+			color:orange;}
+			
+		
+		
+		
+.box{
+	width:100%;
+	background:#fff;
+color:#000;
+}
+.box td{
+	color:#000;
+}
+.box tr{
+	color:#000;
+}

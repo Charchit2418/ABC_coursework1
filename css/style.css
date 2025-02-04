@@ -1,0 +1,307 @@
+body{
+margin-right:1px;
+margin-left:1px;
+padding:0px;
+
+margin-top:-20px;
+margin-bottom:0px;
+}
+.clear {
+	clear: both;
+}
+.header{
+	width:100%;
+	height:130px;
+	overflow:hidden;
+background:rgba(102,102,102,0.3);
+margin-top:-15px;
+}
+.header img{
+	float:left;
+	
+
+}
+.header h2{
+
+color:#fff;
+text-align:center;
+}
+.header h4{
+	text-align:center;
+color:#FFFfff;
+}
+.low-header{
+background:rgba(0,51,102,0.2);
+height:48px;
+overflow:hidden;
+width:100%;
+margin-top:1px;
+
+}
+.low-header .menu{
+margin-top:-1%;
+margin-left:30%;
+}
+	
+.low-header .menu ul li{
+	float:left;
+margin-left:20px;
+list-style:none;
+
+}
+.low-header .menu ul li a{
+	text-decoration:none;
+color:#fff;
+font-size:18px;
+font-family:"MS Serif", "New York", serif;
+text-align:center;
+}
+.low-header .menu ul li a:hover{
+	display:block;
+	background:#039;
+	padding:10px;
+
+}
+.low-header .menu ul li>ul {
+	position:absolute;
+	display:none;
+	margin-left:-4.7%;
+	margin-top:0%;
+	
+	}
+		.low-header .menu ul li ul>li{
+			margin-top:3%;
+		}
+		
+		
+		.low-header .menu ul li:hover > ul {
+		display:block;
+
+	}
+
+
+
+
+.main-content{
+	margin-top:10px;
+	width:100%;
+height:395px;
+
+
+overflow:hidden;
+}
+.main-content .left-content{
+	width:60%;
+	height:395px;
+	background:#fff;
+	float:left;
+
+}
+
+.main-content .right-content{
+	width:39%;
+	height:395px;
+	background:rgba(0,102,102,0.7);
+	margin-left:1%;
+	float:left;
+margin-top:-1.5%;
+
+}
+
+
+.main-content .right-content p{
+font-family:"MS Serif", "New York", serif;	
+	color:#fff;
+margin-right:2%;
+margin-left:5%;
+text-align: justify;
+    
+}
+.main-content1{
+	width:100%;
+	height:400px;
+	background:rgba(246, 71, 71);
+	
+margin:auto;
+
+margin-top:2px;
+}
+.main-content1 .bgc{
+background:rgba(153,51,51,0.3);
+
+height:400px;
+}
+.main-content1 .bgc .log{
+	width:60%;
+	height:400px;
+	
+
+float:left;
+overflow:hidden;
+}
+.main-content1 .bgc .log .fom{
+	margin:auto;
+color:#fff;
+margin-left:30%;
+margin-top:7%;
+}
+.main-content1  .sign-up{
+	width:40%;
+	height:400px;
+	background:rgba(246, 71, 71);
+	float:right;
+}
+.main-content1  .sign-up h4{
+	color:#330;;
+text-align:center;
+margin-top:1%;
+}
+.main-content1  .sign-up a h3{
+	color:#FFF;
+text-align:center;
+margin-top:10%;
+}
+.main-content1  .sign-up a h3:hover{
+text-decoration:none;
+}
+
+.main-content1  .sign-up a h3:hover{
+	color:#000;
+	
+}
+.footer{
+	height:80px;
+	width:100%;
+	background:#22313F;
+margin-top:2px;
+overflow:hidden;
+}
+.footer p
+{
+color:#FFF;
+margin-top:2%;	
+text-align:center;
+margin-right:2%;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:18px;
+}
+
+
+
+
+@charset "utf-8";
+/* CSS Document */
+.product{
+width:100%;
+background:#fff;
+}
+.product img{
+	float:left;
+	margin-left:1%;
+
+}
+.product .title{
+	text-align:left;
+	float:left;
+margin-top:12%;
+margin-left:-10%;
+color:#000;
+}
+.right-content p{
+	color:#fff;
+	font-size:18px;
+margin-left:2%;
+margin-right:2%;
+}
+@charset "utf-8";
+/* CSS Document */
+.product{
+width:100%;
+background:#fff;
+float:left;
+}
+.product img{
+	float:left;
+	margin-left:1%;
+margin-bottom:15%;
+margin-top:3%;
+}
+.product .title{
+float:left;
+margin-top:26%;
+margin-left:-22%;
+color:#000;
+}
+.product .title .type{
+	float:left;
+margin-top:-1%;	
+position:absolute;
+}
+
+.product1{
+width:100%;
+background:#fff;
+float:left;
+}
+.product1 img{
+	float:left;
+	margin-left:1%;
+margin-bottom:6%;
+margin-top:3%;
+}
+.product1 .title1{
+float:left;
+margin-top:26%;
+margin-left:-22%;
+color:#000;
+}
+.product1 .title1 .type1{
+	float:left;
+margin-top:-1%;	
+position:absolute;
+}
+
+
+#about{
+width:30%;
+background:rgba(0,51,51,0.6);
+margin-left:2%;
+margin-top:-2%;
+}
+#about h1{
+	color:#FFF;
+	text-align:center;
+}
+#about p{
+color:#fff;	
+margin-top:5%;
+margin-bottom:5%;
+margin-left:5%;
+text-align:justify;
+font-size:17px;
+margin-right:5%;
+}
+#contact{
+background:rgba(0,0,0,0.5);
+width:30%;
+color:#fff;
+margin-left:2;
+}
+
+#contact p{
+color:#fff;
+margin-left:5%;	
+}
+.cont h3{
+margin-top:8%;	
+	
+}
+
+a{
+text-decoration:none;	
+}
+.s{
+width:100%;
+height:345px;
+	
+}

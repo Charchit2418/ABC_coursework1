@@ -1,0 +1,62 @@
+/* about */
+
+body{
+background:url(../images/back.jpg);
+background-size:cover;
+margin:0px;
+}
+
+
+.main{
+	width:100%;
+	
+
+}
+
+
+
+/*user_add*/
+.user_add{
+
+	width:50%;
+	margin-left:25%;
+	background:rgba(44, 62, 0.4)
+	border-radius:10px;
+	text-align:center;
+	margin-top:0%;
+color:#fff;	
+}
+.user_add h2{
+	text-align:center;
+color:#FFF;	
+}
+
+
+.user_add .main #form{
+	
+float:left;	
+}
+input{
+  border: 3px solid #ccc;
+border-radius:4px;
+background-color: #f8f8f8;
+
+}
+input[type=text]:focus {
+    border: 5px solid #555;
+}
+.answer{
+	margin-left:3%;
+
+}
+.display_details{
+	margin-top:2%;;
+width:100%;
+background:rgba(102,102,102,0.7)	
+}
+
+.display_details a{
+text-decoration:none;
+color:#fff;
+font-size:18px;	
+}
